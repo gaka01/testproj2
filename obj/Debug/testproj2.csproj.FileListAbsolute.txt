@@ -1,0 +1,9 @@
+c:\users\galin\documents\visual studio 2013\Projects\testproj2\testproj2\bin\Debug\testproj2.exe.config
+c:\users\galin\documents\visual studio 2013\Projects\testproj2\testproj2\bin\Debug\testproj2.exe
+c:\users\galin\documents\visual studio 2013\Projects\testproj2\testproj2\bin\Debug\testproj2.pdb
+c:\users\galin\documents\visual studio 2013\Projects\testproj2\testproj2\bin\Debug\OpenTK.dll
+c:\users\galin\documents\visual studio 2013\Projects\testproj2\testproj2\bin\Debug\OpenTK.pdb
+c:\users\galin\documents\visual studio 2013\Projects\testproj2\testproj2\bin\Debug\OpenTK.xml
+c:\users\galin\documents\visual studio 2013\Projects\testproj2\testproj2\obj\Debug\testproj2.csprojResolveAssemblyReference.cache
+c:\users\galin\documents\visual studio 2013\Projects\testproj2\testproj2\obj\Debug\testproj2.exe
+c:\users\galin\documents\visual studio 2013\Projects\testproj2\testproj2\obj\Debug\testproj2.pdb
